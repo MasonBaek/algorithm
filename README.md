@@ -12,7 +12,7 @@ now finally playing with keyboard and Eclipse changed my working field.
 I'm still learning JSP, JAVA, Python, Oracle, MySql, html, CSS
 
 i am going to put some keyboard work that i have been through.
-especially algorithm solution.
+especially algorithm solution on this repository.
 
 <hr>
 <h3>:bowtie:</h3>
