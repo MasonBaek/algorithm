@@ -1,7 +1,7 @@
 # algorithm
 
 
-<h2>:cool: having fun playing algorithm sometime put me sick tho</h2>
+<h3>:cool: having fun playing algorithm sometimes put me sick tho</h3>
 I started with "Hello world" as everybody has done it.
 since then on system console always(99%) talks to me "you wrong".:fearful:
 
